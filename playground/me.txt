@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ambirashah Prajapati
-Skills: HTML, CSS, JS, React, Bootstrap, C/C++, Python
-Email: amrajprajapato@gmail.com
-{{/user}}
